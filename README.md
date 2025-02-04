@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend dev
+Frontend dev but trying to be full-stack
 
 
 # 💻 Tech Stack:
