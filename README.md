@@ -1,5 +1,11 @@
 # 💫 About Me:
-Frontend dev but trying to be full-stack
+## 👋 Hi, I'm [Your Name]!
+
+🎓 I'm a final-year Computer Science student at KMITL
+💻 Passionate about Full-Stack Development and building real-world applications  
+🌱 Currently improving my skills in TypeScript, Next.js, and backend architectures  
+🚀 Interested in opportunities related to Full-Stack, Web Development, or Software Engineering  
+📚 I also have experience with AI & NLP projects as side interests  
 
 
 # 💻 Tech Stack:
