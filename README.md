@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Jaikwang!
 
-🎓 I'm a final-year Computer Science student at KMITL
+🎓 I'm a final-year Computer Science student at KMITL  
 💻 Passionate about Full-Stack Development and building real-world applications  
 🌱 Currently improving my skills in TypeScript, Next.js, and backend architectures  
 🚀 Interested in opportunities related to Full-Stack, Web Development, or Software Engineering  
