@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 Hi, I'm Jaikwang!
+# 👋 Hi, I'm Jaikwang!
 
 🎓 I'm a final-year Computer Science student at KMITL  
 💻 Passionate about Full-Stack Development and building real-world applications  
