@@ -72,8 +72,6 @@ Currently focusing on improving my skills in **TypeScript, Next.js, Backend Arch
 
 **🚀 JUMP Thailand Hackathon – AI for the Future of Thai Education**
 
-**🚀 OIC InsurTech Hackathon**
-
 ### 2025
 
 🏅 **Finalist — GHB Open Innovation Hackathon**
