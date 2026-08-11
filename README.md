@@ -32,32 +32,7 @@ Currently focusing on improving my skills in **TypeScript, Next.js, Backend Arch
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-### AI & Data
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- TensorFlow / PyTorch
-- Data Processing & Analysis
-- AI Model Integration
-- REST API Development
-
-### Engineering
-
-- Git & GitHub
-- Docker
-- Cloud Deployment
-- Database Design
-- API Integration
-- Software Architecture
-
-
 ## 🏆 Hackathon Experience
-
-### 2026
-
-**🚀 JUMP Thailand Hackathon – AI for the Future of Thai Education**
 
 ### 2025
 
