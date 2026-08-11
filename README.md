@@ -6,8 +6,6 @@ I enjoy building scalable web applications, backend systems, and AI-powered solu
 
 Currently focusing on improving my skills in **TypeScript, Next.js, Backend Architecture, AI Engineering, LLM Applications, and System Design**. I'm always eager to learn new technologies, build impactful products, and collaborate on challenging projects.
 
----
-
 ## 💻 Technical Skills
 
 ### Languages
