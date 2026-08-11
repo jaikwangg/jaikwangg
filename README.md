@@ -76,16 +76,16 @@ Currently focusing on improving my skills in **TypeScript, Next.js, Backend Arch
 
 ### 2025
 
-🥈 **Semi-Finalist — UniHack 2025**
-
-🥈 **Semi-Finalist — OIC Hackathon 2025**
-
-🥈 **Semi-Finalist — GLO Innovation 2025**
-
 🏅 **Finalist — GHB Open Innovation Hackathon**
 
 🏅 **Finalist — BDI AI & Data Innovation for Smart Tourism**
 
 🏅 **Finalist — EV-HACKATHON HUB STARTUP**
+
+🥈 **Semi-Finalist — UniHack 2025**
+
+🥈 **Semi-Finalist — OIC Hackathon 2025**
+
+🥈 **Semi-Finalist — GLO Innovation 2025**
 
 [![](https://visitcount.itsvg.in/api?id=jaikwangg&icon=0&color=0)](https://visitcount.itsvg.in)
