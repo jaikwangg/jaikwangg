@@ -33,6 +33,7 @@ Currently focusing on improving my skills in **TypeScript, Next.js, Backend Arch
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=jaikwangg&theme=dark)
+
 ## 🏆 Hackathon Experience
 
 ### 2025
