@@ -32,7 +32,7 @@ Currently focusing on improving my skills in **TypeScript, Next.js, Backend Arch
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-[![jaikwangg/myleetcode](https://github-readme-stats.vercel.app/api/pin/?username=jaikwangg&repo=myleetcode&theme=dark)](https://github.com/jaikwangg/myleetcode)
+[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-My_Solutions_Repo-FFA116?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaikwangg/myleetcode)
 
 ## 🏆 Hackathon Experience
 
