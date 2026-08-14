@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Worakij Wanwong
 
-Computer Science Graduate with a strong interest in **Full-Stack Development, Artificial Intelligence, and Software Engineering**.
+Computer Science graduate who likes to **build, experiment, and learn by doing**.
 
-I enjoy building scalable web applications, backend systems, and AI-powered solutions that solve real-world problems. My experience includes developing modern web applications, designing REST APIs, integrating machine learning models, and working with cloud-based technologies.
+I'm interested in **Full-Stack Development, Backend Engineering, and AI**. I enjoy taking an idea from a simple concept and turning it into a working product — whether it's a web application, backend system, or an AI-powered solution.
 
-Currently focusing on improving my skills in **TypeScript, Next.js, Backend Architecture, AI Engineering, LLM Applications, and System Design**. I'm always eager to learn new technologies, build impactful products, and collaborate on challenging projects.
+I've built projects and participated in hackathons covering **Full-Stack, AI/ML, Computer Vision, and Data**. These experiences taught me that I enjoy exploring new technologies and figuring out how things work more than just following tutorials.
+
+**Build → Break → Learn → Build again.**
 
 ## 💻 Technical Skills
 
