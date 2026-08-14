@@ -34,7 +34,6 @@ Currently focusing on improving my skills in **TypeScript, Next.js, Backend Arch
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square\&logo=express\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square\&logo=fastapi\&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square\&logo=spring\&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-%23ED8B00.svg?style=flat-square\&logo=java\&logoColor=white)
 
 ### Database
 
